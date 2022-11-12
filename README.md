@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @william-chalk
 - 👀 I’m interested in all aspects of coding and devlopment
-- 🌱 I’m currently learning Full Stack Web Development
-- 💞️ I’m looking to collaborate on ...
+- 🌱 Full Stack Web Developer
+- 💞️ 3halk1@gmail.com
 
 <!---
 william-chalk/william-chalk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
