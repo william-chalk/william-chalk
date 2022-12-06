@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @william-chalk
+- 👋 Hello everyone! I’m William Chalk
 - 👀 I’m interested in all aspects of coding and devlopment
 - 🌱 Full Stack Web Developer
 - 💞️ 3halk1@gmail.com
