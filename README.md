@@ -10,7 +10,8 @@ william-chalk/william-chalk is a ✨ special ✨ repository because its `README.
 You can click the Preview link to take a look at your changes.
 --->
 # A little more about me...
-```
+```javascript
+
 const williamChalk = {
   pronouns: "he" | "him",
   code: [Javascript, HTML, CSS, SQL],
