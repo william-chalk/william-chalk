@@ -1,7 +1,9 @@
-- 👋 Hello everyone! I’m William Chalk
-- 👀 I’m interested in all aspects of coding and devlopment
-- 🌱 Full Stack Web Developer
-- 💞️ 3halk1@gmail.com
+Hi there 👋
+
+Welcome to my GitHub profile! Here you'll find amongst my public repositories various Bootcamp and personal projects.
+
+
+Thanks for stopping by! 😁
 
 ![](https://komarev.com/ghpvc/?username=william-chalk)
 
