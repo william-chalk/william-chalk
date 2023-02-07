@@ -16,8 +16,8 @@ You can click the Preview link to take a look at your changes.
 
 const williamChalk = {
   pronouns: "he" | "him",
-  code: [Javascript, HTML, CSS, SQL],
-  tools: [React, Node, Bootstrap, Express, Jest, MVC, ORM, MongoDB],
+  code: [JavaScript, HTML, CSS, SQL, Python, Java, C#],
+  tools: [React, Node, Bootstrap, Express, TDD, MVC, ORM, MongoDB, NoSQL, AWS],
   architecture: ["great-work-ethic", "event-driven", "team-player"],
 }
 ```
